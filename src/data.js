@@ -26,5 +26,19 @@ export default [
 		price: 40.00,
 		image:
 			'https://images-na.ssl-images-amazon.com/images/I/61uUPXbhMxL._SX397_BO1,204,203,200_.jpg'
+	},
+	{
+		id: 5,
+		title: 'The Clean Coder: A Code of Conduct for Professional Programmers',
+		price: 35.31,
+		image:
+			'https://images-na.ssl-images-amazon.com/images/I/5154eSTKUxL._SX382_BO1,204,203,200_.jpg'
+	},
+	{
+		id: 6,
+		title: 'Deep Work: Rules for Focused Success in a Distracted World',
+		price: 14.95,
+		image:
+			'https://images-na.ssl-images-amazon.com/images/I/51ygINtzhJL._SX342_.jpg'
 	}
 ];
