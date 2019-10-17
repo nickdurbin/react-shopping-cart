@@ -24,10 +24,11 @@
 	}
 
 	img {
-		object-fit: contain;
 		border-top-left-radius: 5px;
 		border-top-right-radius: 5px;
 		max-width: 333px;
+		min-height: 500px;
+		object-fit: cover;
 	}
 
 	button {
